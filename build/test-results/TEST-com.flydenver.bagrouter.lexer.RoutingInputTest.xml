@@ -1,0 +1,10 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="com.flydenver.bagrouter.lexer.RoutingInputTest" tests="4" failures="0" errors="0" timestamp="2018-01-31T12:25:09" hostname="IE00201418" time="0.002">
+  <properties/>
+  <testcase name="testConstructors" classname="com.flydenver.bagrouter.lexer.RoutingInputTest" time="0.001"/>
+  <testcase name="testNullReader" classname="com.flydenver.bagrouter.lexer.RoutingInputTest" time="0.0"/>
+  <testcase name="testNullStream" classname="com.flydenver.bagrouter.lexer.RoutingInputTest" time="0.0"/>
+  <testcase name="testNullString" classname="com.flydenver.bagrouter.lexer.RoutingInputTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" tests="15" failures="0" errors="0" timestamp="2018-01-31T12:25:09" hostname="IE00201418" time="0.128">
+  <properties/>
+  <testcase name="testEvaluatorInputParsingOneSection" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.017"/>
+  <testcase name="testEvaluatorInputStreamParsing" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.003"/>
+  <testcase name="testEvaluatorInputReaderParsing" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.007"/>
+  <testcase name="testEvaluatorNullInput" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.0"/>
+  <testcase name="testEvaluatorInputParsing" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.003"/>
+  <testcase name="testEvaluatorInputParsingOneSection" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.001"/>
+  <testcase name="testEvaluatorInputStreamParsing" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.001"/>
+  <testcase name="testEvaluatorInputReaderParsing" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.002"/>
+  <testcase name="testEvaluatorNullInput" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.0"/>
+  <testcase name="testEvaluatorInputParsing" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.002"/>
+  <testcase name="testEvaluatorInputParsingOneSection" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.003"/>
+  <testcase name="testEvaluatorInputStreamParsing" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.002"/>
+  <testcase name="testEvaluatorInputReaderParsing" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.002"/>
+  <testcase name="testEvaluatorNullInput" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.0"/>
+  <testcase name="testEvaluatorInputParsing" classname="com.flydenver.bagrouter.lexer.RoutingEvaluatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

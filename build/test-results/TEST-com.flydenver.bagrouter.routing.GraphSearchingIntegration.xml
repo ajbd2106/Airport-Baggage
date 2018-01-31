@@ -1,0 +1,18 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="com.flydenver.bagrouter.routing.GraphSearchingIntegration" tests="12" failures="0" errors="0" timestamp="2018-01-31T12:25:09" hostname="IE00201418" time="0.126">
+  <properties/>
+  <testcase name="testRoutingException" classname="com.flydenver.bagrouter.routing.GraphSearchingIntegration" time="0.0"/>
+  <testcase name="testGraphSearching" classname="com.flydenver.bagrouter.routing.GraphSearchingIntegration" time="0.003"/>
+  <testcase name="testGraphAdd" classname="com.flydenver.bagrouter.routing.GraphSearchingIntegration" time="0.001"/>
+  <testcase name="testSearchGraphAdd" classname="com.flydenver.bagrouter.routing.GraphSearchingIntegration" time="0.001"/>
+  <testcase name="testRoutingException" classname="com.flydenver.bagrouter.routing.GraphSearchingIntegration" time="0.0"/>
+  <testcase name="testGraphSearching" classname="com.flydenver.bagrouter.routing.GraphSearchingIntegration" time="0.002"/>
+  <testcase name="testGraphAdd" classname="com.flydenver.bagrouter.routing.GraphSearchingIntegration" time="0.001"/>
+  <testcase name="testSearchGraphAdd" classname="com.flydenver.bagrouter.routing.GraphSearchingIntegration" time="0.001"/>
+  <testcase name="testRoutingException" classname="com.flydenver.bagrouter.routing.GraphSearchingIntegration" time="0.0"/>
+  <testcase name="testGraphSearching" classname="com.flydenver.bagrouter.routing.GraphSearchingIntegration" time="0.001"/>
+  <testcase name="testGraphAdd" classname="com.flydenver.bagrouter.routing.GraphSearchingIntegration" time="0.001"/>
+  <testcase name="testSearchGraphAdd" classname="com.flydenver.bagrouter.routing.GraphSearchingIntegration" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" tests="15" failures="0" errors="0" timestamp="2018-01-31T12:25:09" hostname="IE00201418" time="0.136">
+  <properties/>
+  <testcase name="testNullSearch1" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.001"/>
+  <testcase name="testNullSearch2" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.0"/>
+  <testcase name="testNullSearch3" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.0"/>
+  <testcase name="testSearchGood1" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.009"/>
+  <testcase name="testSearchGood2" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.001"/>
+  <testcase name="testNullSearch1" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.0"/>
+  <testcase name="testNullSearch2" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.0"/>
+  <testcase name="testNullSearch3" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.0"/>
+  <testcase name="testSearchGood1" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.006"/>
+  <testcase name="testSearchGood2" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.0"/>
+  <testcase name="testNullSearch1" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.0"/>
+  <testcase name="testNullSearch2" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.0"/>
+  <testcase name="testNullSearch3" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.0"/>
+  <testcase name="testSearchGood1" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.001"/>
+  <testcase name="testSearchGood2" classname="com.flydenver.bagrouter.routing.DijkstraSearchStrategyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

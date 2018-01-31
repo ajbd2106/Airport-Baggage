@@ -1,0 +1,27 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="com.flydenver.bagrouter.routing.SearchableGraphTest" tests="21" failures="0" errors="0" timestamp="2018-01-31T12:25:09" hostname="IE00201418" time="0.131">
+  <properties/>
+  <testcase name="testNullSearch1" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testSearchGood1" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.001"/>
+  <testcase name="testSearchGood2" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.001"/>
+  <testcase name="testEdges" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.001"/>
+  <testcase name="testGetNode" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testNullCreate" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testNullSearch" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testNullSearch1" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testSearchGood1" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.001"/>
+  <testcase name="testSearchGood2" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testEdges" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testGetNode" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.001"/>
+  <testcase name="testNullCreate" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testNullSearch" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testNullSearch1" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testSearchGood1" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testSearchGood2" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.004"/>
+  <testcase name="testEdges" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testGetNode" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testNullCreate" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <testcase name="testNullSearch" classname="com.flydenver.bagrouter.routing.SearchableGraphTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" tests="27" failures="0" errors="0" timestamp="2018-01-31T12:25:09" hostname="IE00201418" time="0.199">
+  <properties/>
+  <testcase name="testParseGoodFormat" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testTooFewParts" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testValidInTransitState" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testTooManyLines" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testTooManyParts" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.001"/>
+  <testcase name="testNullLine" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testTooManyLinesWindows" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testInvalidBagId" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testValidArrivalState" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.001"/>
+  <testcase name="testParseGoodFormat" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testTooFewParts" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testValidInTransitState" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testTooManyLines" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testTooManyParts" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testNullLine" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testTooManyLinesWindows" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testInvalidBagId" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testValidArrivalState" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.001"/>
+  <testcase name="testParseGoodFormat" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testTooFewParts" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testValidInTransitState" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testTooManyLines" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testTooManyParts" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testNullLine" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testTooManyLinesWindows" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testInvalidBagId" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <testcase name="testValidArrivalState" classname="com.flydenver.bagrouter.lexer.section.bag.BagEntryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

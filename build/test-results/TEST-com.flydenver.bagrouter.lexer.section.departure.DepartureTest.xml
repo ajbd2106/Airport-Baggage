@@ -1,0 +1,12 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="com.flydenver.bagrouter.lexer.section.departure.DepartureTest" tests="6" failures="0" errors="0" timestamp="2018-01-31T12:25:09" hostname="IE00201418" time="0.16">
+  <properties/>
+  <testcase name="testDepartureFromFlightGood" classname="com.flydenver.bagrouter.lexer.section.departure.DepartureTest" time="0.001"/>
+  <testcase name="testDepartureFromFlightNull" classname="com.flydenver.bagrouter.lexer.section.departure.DepartureTest" time="0.0"/>
+  <testcase name="testDepartureFromFlightGood" classname="com.flydenver.bagrouter.lexer.section.departure.DepartureTest" time="0.0"/>
+  <testcase name="testDepartureFromFlightNull" classname="com.flydenver.bagrouter.lexer.section.departure.DepartureTest" time="0.0"/>
+  <testcase name="testDepartureFromFlightGood" classname="com.flydenver.bagrouter.lexer.section.departure.DepartureTest" time="0.001"/>
+  <testcase name="testDepartureFromFlightNull" classname="com.flydenver.bagrouter.lexer.section.departure.DepartureTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,36 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="com.flydenver.bagrouter.lexer.section.SectionTokenTest" tests="30" failures="0" errors="0" timestamp="2018-01-31T12:25:09" hostname="IE00201418" time="0.166">
+  <properties/>
+  <testcase name="testGoodDeparturesLower" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.015"/>
+  <testcase name="testGoodBags" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodConveyorSystem" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testNull" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodConveyorSystemLower" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testSlipsBags" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testSlipsConveyorSystem" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodDepartures" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testSlipsDepartures" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodBagsLower" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodDeparturesLower" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodBags" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodConveyorSystem" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testNull" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodConveyorSystemLower" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testSlipsBags" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testSlipsConveyorSystem" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodDepartures" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testSlipsDepartures" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodBagsLower" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodDeparturesLower" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodBags" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodConveyorSystem" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testNull" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodConveyorSystemLower" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testSlipsBags" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testSlipsConveyorSystem" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodDepartures" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testSlipsDepartures" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <testcase name="testGoodBagsLower" classname="com.flydenver.bagrouter.lexer.section.SectionTokenTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

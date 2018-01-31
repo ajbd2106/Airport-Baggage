@@ -1,0 +1,9 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="com.flydenver.bagrouter.domain.FlightTest" tests="3" failures="0" errors="0" timestamp="2018-01-31T12:25:09" hostname="IE00201418" time="0.058">
+  <properties/>
+  <testcase name="testFlightEquals" classname="com.flydenver.bagrouter.domain.FlightTest" time="0.0"/>
+  <testcase name="testFlightEquals" classname="com.flydenver.bagrouter.domain.FlightTest" time="0.0"/>
+  <testcase name="testFlightEquals" classname="com.flydenver.bagrouter.domain.FlightTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

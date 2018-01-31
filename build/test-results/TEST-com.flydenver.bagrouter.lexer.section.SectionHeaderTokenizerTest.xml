@@ -1,0 +1,24 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" tests="18" failures="0" errors="0" timestamp="2018-01-31T12:25:09" hostname="IE00201418" time="0.144">
+  <properties/>
+  <testcase name="testBadTokens" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.004"/>
+  <testcase name="testGoodSectionHeader" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.003"/>
+  <testcase name="testBadHeaders" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.0"/>
+  <testcase name="testGoodSectionTokens" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.0"/>
+  <testcase name="testLeadingAndTrailingSpace" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.0"/>
+  <testcase name="testTypeNull" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.001"/>
+  <testcase name="testBadTokens" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.0"/>
+  <testcase name="testGoodSectionHeader" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.0"/>
+  <testcase name="testBadHeaders" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.0"/>
+  <testcase name="testGoodSectionTokens" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.0"/>
+  <testcase name="testLeadingAndTrailingSpace" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.0"/>
+  <testcase name="testTypeNull" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.0"/>
+  <testcase name="testBadTokens" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.0"/>
+  <testcase name="testGoodSectionHeader" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.001"/>
+  <testcase name="testBadHeaders" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.0"/>
+  <testcase name="testGoodSectionTokens" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.0"/>
+  <testcase name="testLeadingAndTrailingSpace" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.001"/>
+  <testcase name="testTypeNull" classname="com.flydenver.bagrouter.lexer.section.SectionHeaderTokenizerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
