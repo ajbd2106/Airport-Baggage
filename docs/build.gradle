@@ -1,0 +1,51 @@
+defaultTasks 'clean', 'test', 'run'
+
+
+apply plugin: 'application'
+apply plugin: 'java'
+apply plugin: 'idea'
+
+
+def javaVersion = 1.8
+
+sourceCompatibility = javaVersion
+targetCompatibility = javaVersion
+
+
+version = '1.0'
+
+mainClassName = "com.flydenver.bagrouter.BagRouter"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile( 'junit:junit:4.12' )
+}
+
+
+
+jar {
+    doFirst {
+        exclude 'routing-input.txt'
+    }
+
+    manifest {
+        attributes (
+        		provider: 'DEN', 
+        		'Implementation-Title': 'Denver Baggage Router', 
+        		'Implementation-Version': version,
+                'Main-Class' : mainClassName
+        )
+    }
+}
+
+
+test{
+    scanForTestClasses = false
+//    useJUnit {
+//        includeCategories 'com/flydenver/bagrouter/FullSuite'
+//        excludeCategories '**/BagRouteOutputTest$0'
+//    }
+}
